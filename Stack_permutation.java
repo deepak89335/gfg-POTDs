@@ -1,3 +1,6 @@
+// You are given two arrays A and B of unique elements of size N. Check if one array is a stack permutation of the other array or not.
+// Stack permutation means that one array can be created from another array using a stack and stack operations.
+
 import java.io.*;
 import java.util.*;
 
