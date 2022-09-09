@@ -31,7 +31,7 @@ class Solution
         
         while(N != 0) 
         {
-            if(N> 9) 
+            if(N> 9)
             {
                 sb.insert(0,9);
                 N -= 9;
